@@ -2,6 +2,7 @@
 *.iml
 *.iws
 *.eml
+npm-debug.log
 out/
 .DS_Store
 .svn
