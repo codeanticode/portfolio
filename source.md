@@ -28,19 +28,19 @@ V:
 
 V:
 
-<img height="600" src="http://portfolio.andrescolubri.net/images/Bush-1-2004.jpg" style="background:none; border:none; box-shadow:none"/>
+<img height="400" src="http://portfolio.andrescolubri.net/images/Bush-1-2004.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
-<img height="600" src="http://portfolio.andrescolubri.net/images/Bush-2-2004.jpg" style="background:none; border:none; box-shadow:none"/>
+<img height="400" src="http://portfolio.andrescolubri.net/images/Bush-2-2004.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
-<img height="600" src="http://portfolio.andrescolubri.net/images/Bush-3-2004.jpg" style="background:none; border:none; box-shadow:none"/>
+<img height="400" src="http://portfolio.andrescolubri.net/images/Bush-3-2004.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
-<img height="600" src="http://portfolio.andrescolubri.net/images/Bush-4-2004.jpg" style="background:none; border:none; box-shadow:none"/>
+<img height="400" src="http://portfolio.andrescolubri.net/images/Bush-4-2004.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
