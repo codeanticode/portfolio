@@ -11,3 +11,188 @@ H:
 <div id="random_walk" style="background:none; border:none; box-shadow:none"></div>
 
 H:
+
+drawings (1995-2005)
+
+V:
+
+<img height="600" src="http://portfolio.andrescolubri.net/images/face-1995.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img height="600" src="http://portfolio.andrescolubri.net/images/DragonsDoor-1999.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img height="600" src="http://portfolio.andrescolubri.net/images/throne-2004.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img height="600" src="http://portfolio.andrescolubri.net/images/Bush-1-2004.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img height="600" src="http://portfolio.andrescolubri.net/images/Bush-2-2004.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img height="600" src="http://portfolio.andrescolubri.net/images/Bush-3-2004.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img height="600" src="http://portfolio.andrescolubri.net/images/Bush-4-2004.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img height="600" src="http://portfolio.andrescolubri.net/images/station-2004.jpg" style="background:none; border:none; box-shadow:none"/>
+
+H:
+
+protein folding (1998 - 2005)
+
+V:
+
+<img height="250" src="http://portfolio.andrescolubri.net/images/protein-folding.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img height="600" src="http://portfolio.andrescolubri.net/images/folding-algorithm.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img width="600" src="http://portfolio.andrescolubri.net/images/folding-results.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*colubri et al. J. Mol. Biol. (2006)*
+
+H:
+
+molecular visualization (2003 - 2004)
+
+V:
+
+<img width="600" src="http://portfolio.andrescolubri.net/images/ribbon-richardson.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*ribbon drawings (Jane Richardson)*
+
+V:
+
+<img height="600" src="http://portfolio.andrescolubri.net/images/ribbon-algorithm.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/1qd62.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/1a3n.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/1ahq1.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/1ahq2.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/2gls.jpg" style="background:none; border:none; box-shadow:none"/>
+
+H:
+
+<img height="500" src="http://portfolio.andrescolubri.net/images/ribbon-code-pascal.png" style="background:none; border:none; box-shadow:none"/><br>
+*ribbon rendering code (Pascal)*
+
+H:
+
+<img width="600" src="http://portfolio.andrescolubri.net/images/one-mountain.jpg" style="background:none; border:none; box-shadow:none"/>
+
+H:
+
+<img src="http://portfolio.andrescolubri.net/images/many-mountains.jpg" style="background:none; border:none; box-shadow:none"/>
+
+H:
+
+argentina & moldeo (2005 - 2007)
+
+V:
+
+<img src="http://portfolio.andrescolubri.net/images/narciso02.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*narciso en tiempo real (2005)*
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/crave01.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*crave (2005)*
+
+V:
+
+<img height="500" src="http://portfolio.andrescolubri.net/images/crave-ensayo.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<iframe src="https://player.vimeo.com/video/13509000" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+V:
+
+<img width="600" src="http://portfolio.andrescolubri.net/images/contemplacion.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*contemplación (w/Ananke Assef, 2006)*
+
+V:
+
+<iframe src="https://player.vimeo.com/video/13508973" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+V:
+
+<img width="600" src="http://portfolio.andrescolubri.net/images/clone1.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*clone (2007)*
+
+V:
+
+<img width="512" src="http://portfolio.andrescolubri.net/images/moldeo.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+Check [moldeo.org](http://moldeo.org/) for more info
+
+H:
+
+processing (2005 - present)
+
+V:
+
+<img src="http://portfolio.andrescolubri.net/images/landscape1.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*non-photorealistic rendering shaders (2005)*
+
+V:
+
+<img src="http://portfolio.andrescolubri.net/images/landscape1p1.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img src="http://portfolio.andrescolubri.net/images/landscape1p2.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/processing-projects.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<iframe src="https://player.vimeo.com/video/38840688" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+V:
+
+<iframe src="https://player.vimeo.com/video/121096680" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+V:
+
+<iframe src="https://player.vimeo.com/video/213490372" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+V:
+
+
+<img width="200" src="http://portfolio.andrescolubri.net/images/processing-logo.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+More info:
+
+[processing.org](https://processing.org/)
+
+[processing for android](http://android.processing.org/)
+
+[processing foundation](https://processingfoundation.org/)
