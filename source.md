@@ -149,7 +149,7 @@ V:
 
 <img width="512" src="http://portfolio.andrescolubri.net/images/moldeo.jpg" style="background:none; border:none; box-shadow:none"/><br>
 
-Check [moldeo.org](http://moldeo.org/) for more info
+Check <a href="http://moldeo.org/" target="_blank">moldeo.org</a> for more info
 
 H:
 
@@ -190,11 +190,11 @@ V:
 
 More info:
 
-[processing.org](https://processing.org/)
+<a href="https://processing.org/" target="_blank">processing.org</a>
 
-[processing for android](http://android.processing.org/)
+<a href="http://android.processing.org/" target="_blank">processing for android</a>
 
-[processing foundation](https://processingfoundation.org/)
+<a href="https://processingfoundation.org/" target="_blank">processing foundation</a>
 
 H:
 
@@ -271,7 +271,7 @@ V:
 
 V:
 
-Draw @ [trazos.club](http://trazos.club/)!
+Draw @ <a href="http://trazos.club/" target="_blank">trazos.club!</a>
 
 H:
 
