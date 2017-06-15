@@ -186,7 +186,6 @@ V:
 
 V:
 
-
 <img width="200" src="http://portfolio.andrescolubri.net/images/processing-logo.jpg" style="background:none; border:none; box-shadow:none"/><br>
 
 More info:
@@ -196,3 +195,85 @@ More info:
 [processing for android](http://android.processing.org/)
 
 [processing foundation](https://processingfoundation.org/)
+
+H:
+
+live cinema (2008 - 2010)
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/eda1.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*latent state (mfa thesis, 2009)*
+
+V:
+
+<img src="http://portfolio.andrescolubri.net/images/eda3.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img src="http://portfolio.andrescolubri.net/images/eda5.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img src="http://portfolio.andrescolubri.net/images/eda9.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<iframe src="https://player.vimeo.com/video/4806038" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+V:
+
+<iframe src="https://player.vimeo.com/video/5007681" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+H:
+
+<img height="500" src="http://portfolio.andrescolubri.net/images/ribbon-code-processing.png" style="background:none; border:none; box-shadow:none"/><br>
+*ribbon rendering code (Pascal)*
+
+H:
+
+live drawing (2009 - present)
+
+V:
+
+<img src="http://portfolio.andrescolubri.net/images/cuentos-huiniaj.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*cuentos animados (2007)*
+
+V:
+
+<img width="600" src="http://portfolio.andrescolubri.net/images/cuentos-payaso.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img width="600" src="http://portfolio.andrescolubri.net/images/cuentos-diario.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*cuentos animados (2014)*
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/proyeccion-edificios.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/dibujo-danza.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/dibujo-taller.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/trazos-sketch.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/intro-trazos.gif" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+Draw @ [trazos.club](http://trazos.club/)!
+
+H:
+
+<img height="500" src="http://portfolio.andrescolubri.net/images/ribbon-code-p5js.png" style="background:none; border:none; box-shadow:none"/><br>
+*ribbon rendering code (p5.js)*
