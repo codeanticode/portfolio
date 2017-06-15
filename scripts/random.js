@@ -25,7 +25,7 @@ var viz_function = function(p) {
     var canvas = p.createCanvas(800, 600);
     canvas.parent('random_walk');
     p.frameRate(30);
-    p.noLoop();
+//     p.noLoop();
     p.fill(0,255,0);
     p.background(255);
     p.textAlign(p.CENTER);
@@ -61,17 +61,17 @@ var viz_function = function(p) {
        p.noLoop();
     }
     
-	p.mouseMoved = function() {
-	  if (!p.looping && p.frameCount < maxIter) {
-	    p.loop()
-	  }
-	}
-	
-	p.keyPressed = function() {
-	  if (!p.looping && p.frameCount < maxIter) {
-	    p.loop()
-	  }	
-	}	
+// 	p.mouseMoved = function() {
+// 	  if (!p.looping && p.frameCount < maxIter) {
+// 	    p.loop()
+// 	  }
+// 	}
+// 	
+// 	p.keyPressed = function() {
+// 	  if (!p.looping && p.frameCount < maxIter) {
+// 	    p.loop()
+// 	  }	
+// 	}	
   }
 }
 

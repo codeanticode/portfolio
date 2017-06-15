@@ -1,14 +1,8 @@
-<img height="200" src="http://portfolio.andrescolubri.net/images/randomwalk.png" style="background:none; border:none; box-shadow:none"/>
-
-drawing with code:
-
-a (sometimes random)  walk
-
-through art, code, and science
-
-H:
-
 <div id="random_walk" style="background:none; border:none; box-shadow:none"></div>
+
+<div style="margin: auto; position: absolute; top: 0; left: 0; bottom: 0; right: 0;">
+<p>drawing with code:<br>a (sometimes random)  walk<br>through art, code, and science</p>
+</div>
 
 H:
 
@@ -116,7 +110,7 @@ H:
 
 H:
 
-moldeo (2005 - 2007)
+real-time with moldeo (2005 - 2007)
 
 V:
 
