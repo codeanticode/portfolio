@@ -52,6 +52,11 @@ protein folding (1998 - 2005)
 
 V:
 
+<img width="800" src="http://portfolio.andrescolubri.net/images/DNA-Flow-Protein.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*<a href="https://www.edx.org/course/proteins-biologys-workforce-ricex-bioc300-1x-2" target="_blank">Proteins: Biology's Workforce</a>*
+
+V:
+
 <img height="250" src="http://portfolio.andrescolubri.net/images/protein-folding.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
@@ -74,7 +79,7 @@ V:
 
 V:
 
-<img height="600" src="http://portfolio.andrescolubri.net/images/ribbon-algorithm.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img height="600" src="http://portfolio.andrescolubri.net/images/ribbon-algorithm.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
@@ -125,7 +130,7 @@ V:
 
 V:
 
-<img height="500" src="http://portfolio.andrescolubri.net/images/crave-ensayo.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img height="500" src="http://portfolio.andrescolubri.net/images/crave-ensayo.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
@@ -162,15 +167,15 @@ V:
 
 V:
 
-<img src="http://portfolio.andrescolubri.net/images/landscape1p1.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img src="http://portfolio.andrescolubri.net/images/landscape1p1.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
-<img src="http://portfolio.andrescolubri.net/images/landscape1p2.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img src="http://portfolio.andrescolubri.net/images/landscape1p2.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
-<img width="800" src="http://portfolio.andrescolubri.net/images/processing-projects.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img width="800" src="http://portfolio.andrescolubri.net/images/processing-projects.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
@@ -186,7 +191,7 @@ V:
 
 V:
 
-<img width="200" src="http://portfolio.andrescolubri.net/images/processing-logo.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img width="200" src="http://portfolio.andrescolubri.net/images/processing-logo.jpg" style="background:none; border:none; box-shadow:none"/>
 
 More info:
 
@@ -207,15 +212,15 @@ V:
 
 V:
 
-<img src="http://portfolio.andrescolubri.net/images/eda3.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img src="http://portfolio.andrescolubri.net/images/eda3.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
-<img src="http://portfolio.andrescolubri.net/images/eda5.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img src="http://portfolio.andrescolubri.net/images/eda5.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
-<img src="http://portfolio.andrescolubri.net/images/eda9.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img src="http://portfolio.andrescolubri.net/images/eda9.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
@@ -255,7 +260,7 @@ V:
 
 V:
 
-<img width="600" src="http://portfolio.andrescolubri.net/images/cuentos-payaso.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img width="600" src="http://portfolio.andrescolubri.net/images/cuentos-payaso.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
@@ -264,24 +269,23 @@ V:
 
 V:
 
-<img width="800" src="http://portfolio.andrescolubri.net/images/proyeccion-edificios.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img width="800" src="http://portfolio.andrescolubri.net/images/proyeccion-edificios.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
-<img width="800" src="http://portfolio.andrescolubri.net/images/dibujo-danza.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img width="800" src="http://portfolio.andrescolubri.net/images/dibujo-danza.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
-<img width="800" src="http://portfolio.andrescolubri.net/images/dibujo-taller.jpg" style="background:none; border:none; box-shadow:none"/><br>
-
-
-V:
-
-<img width="800" src="http://portfolio.andrescolubri.net/images/trazos-sketch.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img width="800" src="http://portfolio.andrescolubri.net/images/dibujo-taller.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
-<img width="800" src="http://portfolio.andrescolubri.net/images/intro-trazos.gif" style="background:none; border:none; box-shadow:none"/><br>
+<img width="800" src="http://portfolio.andrescolubri.net/images/trazos-sketch.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/intro-trazos.gif" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
@@ -291,3 +295,15 @@ V:
 V:
 
 Draw @ <a href="http://trazos.club/" target="_blank">trazos.club!</a>
+
+H:
+
+social data (2009 - present)
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/dibujo-taller.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+H:
+
+scientific data (2014 - present)
