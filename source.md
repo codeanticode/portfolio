@@ -302,8 +302,83 @@ social data (2009 - present)
 
 V:
 
-<img width="800" src="http://portfolio.andrescolubri.net/images/dibujo-taller.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img width="600" src="http://portfolio.andrescolubri.net/images/FLUflux1.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*FLUflux (with <a href="http://cargocollective.com/jihyunkim" target="_blank">Jihyun Kim</a>, 2009)*
+
+
+V:
+
+<img width="600" src="http://portfolio.andrescolubri.net/images/FLUflux3.jpg" style="background:none; border:none; box-shadow:none"/>
+
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/gardenlib-1-bookshelf.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*Garden Library Visualization<br>(with <a href="http://gavaligai.com/" target="_blank">Romy Achituv</a>, 2012)*
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/gardenlib-people1.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/gardenlib-people2.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/gardenlib-people3.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/gardenlib-people4.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/gardenlib-stickers.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/gardenlib-2-wheel.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/gardenlib-3-history.jpg" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+More information:
+
+<a href="http://thegardenlibrary.org/" target="_blank">The Garden Library site</a>
+
+<a href="http://gavaligai.com/filter/select/The-Garden-Library/" target="_blank">Romy's project page</a>
+
+<a href="https://elmcip.net/node/4675" target="_blank">Project at Remediating the<br>Social conference</a>
+
+<a href="https://fathom.info/notebook/3260/" target="_blank">Blogpost at fathom.info</a>
 
 H:
 
 scientific data (2014 - present)
+
+V:
+
+Convergence-divergence
+
+V:
+
+Mirador (UI/competition)
+
+V:
+
+Mutual Info
+
+V: 
+
+Search paths
+
+V: 
+
+Drawing in data space?
+
+
+
