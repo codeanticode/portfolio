@@ -96,7 +96,7 @@ V:
 
 <img width="800" src="http://portfolio.andrescolubri.net/images/2gls.jpg" style="background:none; border:none; box-shadow:none"/>
 
-H:
+V:
 
 <img height="500" src="http://portfolio.andrescolubri.net/images/ribbon-code-pascal.png" style="background:none; border:none; box-shadow:none"/><br>
 *ribbon rendering code (Pascal)*
@@ -111,7 +111,7 @@ H:
 
 H:
 
-argentina & moldeo (2005 - 2007)
+moldeo (2005 - 2007)
 
 V:
 
@@ -203,7 +203,7 @@ live cinema (2008 - 2010)
 V:
 
 <img width="800" src="http://portfolio.andrescolubri.net/images/eda1.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*latent state (mfa thesis, 2009)*
+*latent state (<a href="http://andrescolubri.net/assets/art/colubri-mfa_thesis-ucla.pdf" target="_blank">mfa thesis</a>, 2009)*
 
 V:
 
@@ -225,19 +225,33 @@ V:
 
 <iframe src="https://player.vimeo.com/video/5007681" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-H:
+V:
+
+<iframe src="https://player.vimeo.com/video/200751037" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+*Vuelo: Sesion 01 (Burbuja Abián, 2016)*
+
+V:
 
 <img height="500" src="http://portfolio.andrescolubri.net/images/ribbon-code-processing.png" style="background:none; border:none; box-shadow:none"/><br>
-*ribbon rendering code (Pascal)*
+*ribbon rendering code (Processing)*
+
+V:
+
+get the code from the <a href="https://github.com/andiamo/andiamo" target="_blank">andiamo repo</a>
 
 H:
 
-live drawing (2009 - present)
+live drawing (2007 - present)
+
+V:
+
+<iframe width="854" height="510" src="//www.youtube.com/embed/9IcbwkoXfTs" frameborder="0" allowfullscreen></iframe>
+*collaboration with <a href="http://marcelarapallo.com.ar/" target="_blank">Marcela Rapallo</a>, <a href="http://una.edu.ar/" target="_blank">UNA</a>*
 
 V:
 
 <img src="http://portfolio.andrescolubri.net/images/cuentos-huiniaj.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*cuentos animados (2007)*
+*cuentos animados (2007...)*
 
 V:
 
@@ -246,7 +260,7 @@ V:
 V:
 
 <img width="600" src="http://portfolio.andrescolubri.net/images/cuentos-diario.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*cuentos animados (2014)*
+*cuentos animados (...2014)*
 
 V:
 
@@ -271,9 +285,9 @@ V:
 
 V:
 
-Draw @ <a href="http://trazos.club/" target="_blank">trazos.club!</a>
-
-H:
-
 <img height="500" src="http://portfolio.andrescolubri.net/images/ribbon-code-p5js.png" style="background:none; border:none; box-shadow:none"/><br>
 *ribbon rendering code (p5.js)*
+
+V:
+
+Draw @ <a href="http://trazos.club/" target="_blank">trazos.club!</a>
