@@ -179,6 +179,10 @@ V:
 
 V:
 
+<iframe src="https://player.vimeo.com/video/74066023" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+V:
+
 <iframe src="https://player.vimeo.com/video/38840688" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 V:
@@ -187,17 +191,11 @@ V:
 
 V:
 
-<iframe src="https://player.vimeo.com/video/213490372" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-V:
-
 <img width="200" src="http://portfolio.andrescolubri.net/images/processing-logo.jpg" style="background:none; border:none; box-shadow:none"/>
 
 More info:
 
 <a href="https://processing.org/" target="_blank">processing.org</a>
-
-<a href="http://android.processing.org/" target="_blank">processing for android</a>
 
 <a href="https://processingfoundation.org/" target="_blank">processing foundation</a>
 
@@ -298,18 +296,48 @@ Draw @ <a href="http://trazos.club/" target="_blank">trazos.club!</a>
 
 H:
 
+mobile (2009 - present)
+
+V:
+
+<img width="600" src="http://portfolio.andrescolubri.net/images/itch1.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*ITCH @ <a href="http://www.isea2010ruhr.org/files/redaktion/pdf/isea2010_proceedings_p27_kim_colubri.pdf" target="_blank">ISEA</a> (with <a href="http://cargocollective.com/jihyunkim" target="_blank">Jihyun Kim</a>, 2009)*
+
+V:
+
+<img width="600" src="http://portfolio.andrescolubri.net/images/itch2.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<iframe src="https://player.vimeo.com/video/52261096" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>
+*Relay (with Jihyun Kim & Terrence Fradet, 2012)*
+
+V:
+
+<img width="256" src="http://portfolio.andrescolubri.net/images/ProcessingAndroidLogo-4.png" style="background:none; border:none; box-shadow:none"/>
+
+<a href="http://android.processing.org/" target="_blank">processing for android</a>
+
+V:
+
+<iframe src="https://player.vimeo.com/video/213490372" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+H:
+
 social data (2009 - present)
+
+V:
+
+<img width="800" src="http://portfolio.andrescolubri.net/images/airport-outbreak.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
 <img width="600" src="http://portfolio.andrescolubri.net/images/FLUflux1.jpg" style="background:none; border:none; box-shadow:none"/><br>
 *FLUflux (with <a href="http://cargocollective.com/jihyunkim" target="_blank">Jihyun Kim</a>, 2009)*
 
-
 V:
 
 <img width="600" src="http://portfolio.andrescolubri.net/images/FLUflux3.jpg" style="background:none; border:none; box-shadow:none"/>
-
 
 V:
 
@@ -355,30 +383,4 @@ More information:
 <a href="https://elmcip.net/node/4675" target="_blank">Project at Remediating the<br>Social conference</a>
 
 <a href="https://fathom.info/notebook/3260/" target="_blank">Blogpost at fathom.info</a>
-
-H:
-
-scientific data (2014 - present)
-
-V:
-
-Convergence-divergence
-
-V:
-
-Mirador (UI/competition)
-
-V:
-
-Mutual Info
-
-V: 
-
-Search paths
-
-V: 
-
-Drawing in data space?
-
-
 
