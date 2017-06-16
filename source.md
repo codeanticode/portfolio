@@ -47,7 +47,7 @@ protein folding (1998 - 2005)
 V:
 
 <img width="600" data-src="http://portfolio.andrescolubri.net/images/DNA-Flow-Protein.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*<a href="https://www.edx.org/course/proteins-biologys-workforce-ricex-bioc300-1x-2" target="_blank">Proteins: Biology's Workforce</a>*
+*<a href="https://www.edx.org/course/proteins-biologys-workforce-ricex-bioc300-1x-2" target="_blank">proteins: biology's workforce</a>*
 
 V:
 
@@ -60,7 +60,7 @@ V:
 V:
 
 <img width="600" data-src="http://portfolio.andrescolubri.net/images/folding-results.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*colubri et al. J. Mol. Biol. (2006)*
+*colubri et al. (2006)*
 
 H:
 
@@ -140,7 +140,7 @@ V:
 V:
 
 <img width="600" data-src="http://portfolio.andrescolubri.net/images/contemplacion.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*contemplación (w/Ananke Assef, 2006)*
+*contemplación (width Ananke Assef, 2006)*
 
 V:
 
@@ -198,7 +198,7 @@ V:
 
 <img width="200" data-src="http://portfolio.andrescolubri.net/images/processing-logo.jpg" style="background:none; border:none; box-shadow:none"/>
 
-More info:
+more info:
 
 <a href="https://processing.org/" target="_blank">processing.org</a>
 
@@ -236,7 +236,7 @@ V:
 V:
 
 <iframe data-src="https://player.vimeo.com/video/200751037" width="854" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-*Vuelo: Sesion 01 (Burbuja Abián, 2016)*
+*vuelo: sesion 01 (Burbuja Abián, 2016)*
 
 V:
 
@@ -297,7 +297,7 @@ V:
 
 V:
 
-Draw @ <a href="http://trazos.club/" target="_blank">trazos.club!</a>
+draw @ <a href="http://trazos.club/" target="_blank">trazos.club!</a>
 
 H:
 
@@ -382,7 +382,7 @@ V:
 
 more information:
 
-<a href="http://thegardenlibrary.org/" target="_blank">The Garden Library site</a>
+<a href="http://thegardenlibrary.org/" target="_blank">garden library site</a>
 
 <a href="http://gavaligai.com/filter/select/The-Garden-Library/" target="_blank">Romy Achituv's project page</a>
 
@@ -401,7 +401,7 @@ V:
 V:
 
 <img width="800" data-src="http://portfolio.andrescolubri.net/images/mirador.png" style="background:none; border:none; box-shadow:none"/><br>
-*Mirador (w/<a href="https://fathom.info/" target="_blank">Fathom Information Design</a>)*
+*mirador (with <a href="https://fathom.info/" target="_blank">Fathom Information Design</a>)*
 
 V:
 
@@ -410,7 +410,7 @@ V:
 V:
 
 <img width="800" data-src="http://portfolio.andrescolubri.net/images/mirador-datacomp.png" style="background:none; border:none; box-shadow:none"/><br>
-*<a href="https://fathom.info/mirador/competition.html" target="_blank">Mirador Data Competition</a>*
+*<a href="https://fathom.info/mirador/competition.html" target="_blank">mirador data competition</a>*
 
 V:
 
@@ -420,7 +420,7 @@ V:
 V:
 
 <img height="500" data-src="http://portfolio.andrescolubri.net/images/search-path.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*Metric Spaces (2015)</a>*
+*metric spaces (2015)</a>*
 
 V:
 
