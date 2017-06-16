@@ -60,11 +60,11 @@ V:
 V:
 
 <img width="600" data-src="http://portfolio.andrescolubri.net/images/folding-results.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*colubri et al. (2006)*
+*<a href="http://portfolio.andrescolubri.net/articles/jmb2006_intrabasin_colubri.pdf" target="_blank">colubri et al. (2006)</a>*
 
 H:
 
-molecular visualization (2003 - 2004)
+molecular visualization (2003 - 2010)
 
 V:
 
@@ -98,7 +98,7 @@ V:
 V:
 
 <img height="600" data-src="http://portfolio.andrescolubri.net/images/ribbon-code-pascal.png" style="background:none; border:none; box-shadow:none"/><br>
-*ribbon rendering code (Pascal)*
+*ribbon rendering code (pascal)*
 
 V:
 <img height="500" data-src="http://portfolio.andrescolubri.net/images/conv-div.jpg" style="background:none; border:none; box-shadow:none"/><br>
@@ -140,7 +140,7 @@ V:
 V:
 
 <img width="600" data-src="http://portfolio.andrescolubri.net/images/contemplacion.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*contemplación (width Ananke Assef, 2006)*
+*contemplación (with Ananke Assef, 2006)*
 
 V:
 
@@ -159,7 +159,7 @@ V:
 
 <img width="512" data-src="http://portfolio.andrescolubri.net/images/moldeo.jpg" style="background:none; border:none; box-shadow:none"/><br>
 
-Check <a href="http://moldeo.org/" target="_blank">moldeo.org</a> for more info
+check <a href="http://moldeo.org/" target="_blank">moldeo.org</a> for more info
 
 H:
 
@@ -235,13 +235,13 @@ V:
 
 V:
 
-<iframe data-src="https://player.vimeo.com/video/200751037" width="854" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-*vuelo: sesion 01 (Burbuja Abián, 2016)*
+<iframe data-src="https://player.vimeo.com/video/200751037" width="854" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>
+*vuelo: sesión 01 (Burbuja Abián, 2016)*
 
 V:
 
 <img height="500" data-src="http://portfolio.andrescolubri.net/images/ribbon-code-processing.png" style="background:none; border:none; box-shadow:none"/><br>
-*ribbon rendering code (Processing)*
+*ribbon rendering code (processing)*
 
 V:
 
@@ -306,11 +306,12 @@ mobile (2009 - present)
 V:
 
 <img width="600" data-src="http://portfolio.andrescolubri.net/images/itch1.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*ITCH @ <a href="http://www.isea2010ruhr.org/files/redaktion/pdf/isea2010_proceedings_p27_kim_colubri.pdf" target="_blank">ISEA</a> (with <a href="http://cargocollective.com/jihyunkim" target="_blank">Jihyun Kim</a>, 2009)*
+*itch @ <a href="http://portfolio.andrescolubri.net/articles/isea2010_proceedings_itch_kim_colubri.pdf" target="_blank">isea</a> (with <a href="http://cargocollective.com/jihyunkim" target="_blank">Jihyun Kim</a>, 2010)*
 
 V:
 
-<img width="600" data-src="http://portfolio.andrescolubri.net/images/itch2.jpg" style="background:none; border:none; box-shadow:none"/>
+<img width="600" data-src="http://portfolio.andrescolubri.net/images/itch2.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*<a href="http://www.siggraph.org/asia2010/content/attendees/Courses/16.html" target="_blank">siggraph asia 2010</a>*
 
 V:
 
@@ -401,7 +402,7 @@ V:
 V:
 
 <img width="800" data-src="http://portfolio.andrescolubri.net/images/mirador.png" style="background:none; border:none; box-shadow:none"/><br>
-*mirador (with <a href="https://fathom.info/" target="_blank">Fathom Information Design</a>)*
+*mirador (with <a href="https://fathom.info/" target="_blank">fathom information design</a>)*
 
 V:
 
