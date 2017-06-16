@@ -316,7 +316,7 @@ V:
 V:
 
 <iframe data-src="https://player.vimeo.com/video/52261096" width="854" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>
-*Relay (with Jihyun Kim & Terrence Fradet, 2012)*
+*relay (with Jihyun Kim & Terrence Fradet, 2012)*
 
 V:
 
@@ -335,7 +335,7 @@ social data (2009 - present)
 V:
 
 <img width="600" data-src="http://portfolio.andrescolubri.net/images/airport-outbreak.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*FLUflux (with <a href="http://cargocollective.com/jihyunkim" target="_blank">Jihyun Kim</a>, 2009)*
+*fluflux (with <a href="http://cargocollective.com/jihyunkim" target="_blank">Jihyun Kim</a>, 2009)*
 
 V:
 
@@ -349,7 +349,7 @@ V:
 V:
 
 <img width="800" data-src="http://portfolio.andrescolubri.net/images/gardenlib-1-bookshelf.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*Garden Library Visualization<br>(with <a href="http://gavaligai.com/" target="_blank">Romy Achituv</a>, 2012)*
+*garden library visualization<br>(with <a href="http://gavaligai.com/" target="_blank">Romy Achituv</a>, 2012)*
 
 V:
 
