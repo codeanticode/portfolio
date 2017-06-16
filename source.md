@@ -176,11 +176,14 @@ V:
 
 V:
 
-<img data-src="http://portfolio.andrescolubri.net/images/landscape1p2.jpg" style="background:none; border:none; box-shadow:none"/>
+<img data-src="http://portfolio.andrescolubri.net/images/landscape1p2.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*<a href="http://glgraphics.sourceforge.net/" target="_blank">glgraphics</a>, <a href="http://gsvideo.sourceforge.net/" target="_blank">gsvideo</a> (2008-2011)*
+
 
 V:
 
-<img width="800" data-src="http://portfolio.andrescolubri.net/images/processing-projects.jpg" style="background:none; border:none; box-shadow:none"/>
+<img height="550" data-src="http://portfolio.andrescolubri.net/images/processing-projects.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*<a href="http://portfolio.andrescolubri.net/articles/siggraph2012_processing 2_colubri_fry.pdf" target="_blank">processing 2.0 (2012)</a>*
 
 V:
 
@@ -430,6 +433,7 @@ V:
 V:
 
 <img width="1000" data-src="http://portfolio.andrescolubri.net/images/search-patterns.png" style="background:none; border:none; box-shadow:none"/><br>
+*<a href="http://datadrivenjournalism.net/news_and_analysis/a_mirador_for_the_data_forest_from_exploration_to_predictive_modeling" target="_blank">a mirador for the data forest</a>*
 
 V:
 
