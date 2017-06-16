@@ -46,7 +46,7 @@ protein folding (1998 - 2005)
 
 V:
 
-<img width="800" data-src="http://portfolio.andrescolubri.net/images/DNA-Flow-Protein.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img width="600" data-src="http://portfolio.andrescolubri.net/images/DNA-Flow-Protein.jpg" style="background:none; border:none; box-shadow:none"/><br>
 *<a href="https://www.edx.org/course/proteins-biologys-workforce-ricex-bioc300-1x-2" target="_blank">Proteins: Biology's Workforce</a>*
 
 V:
@@ -184,15 +184,15 @@ V:
 
 V:
 
-<iframe data-src="https://player.vimeo.com/video/74066023" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe data-src="https://player.vimeo.com/video/74066023" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 V:
 
-<iframe data-src="https://player.vimeo.com/video/38840688" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe data-src="https://player.vimeo.com/video/38840688" width="850" height="425" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 V:
 
-<iframe data-src="https://player.vimeo.com/video/121096680" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe data-src="https://player.vimeo.com/video/121096680" width="854" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 V:
 
@@ -227,15 +227,15 @@ V:
 
 V:
 
-<iframe data-src="https://player.vimeo.com/video/4806038" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe data-src="https://player.vimeo.com/video/4806038" width="854" height="470" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 V:
 
-<iframe data-src="https://player.vimeo.com/video/5007681" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe data-src="https://player.vimeo.com/video/5007681" width="600" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 V:
 
-<iframe data-src="https://player.vimeo.com/video/200751037" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe data-src="https://player.vimeo.com/video/200751037" width="854" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 *Vuelo: Sesion 01 (Burbuja Abián, 2016)*
 
 V:
@@ -314,7 +314,7 @@ V:
 
 V:
 
-<iframe data-src="https://player.vimeo.com/video/52261096" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>
+<iframe data-src="https://player.vimeo.com/video/52261096" width="854" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>
 *Relay (with Jihyun Kim & Terrence Fradet, 2012)*
 
 V:
@@ -325,7 +325,7 @@ V:
 
 V:
 
-<iframe data-src="https://player.vimeo.com/video/213490372" width="854" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe data-src="https://player.vimeo.com/video/213490372" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 H:
 
@@ -380,11 +380,11 @@ V:
 
 V:
 
-More information:
+more information:
 
 <a href="http://thegardenlibrary.org/" target="_blank">The Garden Library site</a>
 
-<a href="http://gavaligai.com/filter/select/The-Garden-Library/" target="_blank">Romy's project page</a>
+<a href="http://gavaligai.com/filter/select/The-Garden-Library/" target="_blank">Romy Achituv's project page</a>
 
 H:
 
