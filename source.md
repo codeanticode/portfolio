@@ -97,8 +97,15 @@ V:
 
 V:
 
-<img height="500" data-src="http://portfolio.andrescolubri.net/images/ribbon-code-pascal.png" style="background:none; border:none; box-shadow:none"/><br>
+<img height="600" data-src="http://portfolio.andrescolubri.net/images/ribbon-code-pascal.png" style="background:none; border:none; box-shadow:none"/><br>
 *ribbon rendering code (Pascal)*
+
+V:
+<img height="500" data-src="http://portfolio.andrescolubri.net/images/conv-div.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*convergence/divergence (2010)*
+
+V:
+<img height="600" data-src="http://portfolio.andrescolubri.net/images/conv-div-closeup.jpg" style="background:none; border:none; box-shadow:none"/>
 
 H:
 
@@ -134,6 +141,10 @@ V:
 
 <img width="600" data-src="http://portfolio.andrescolubri.net/images/contemplacion.jpg" style="background:none; border:none; box-shadow:none"/><br>
 *contemplación (w/Ananke Assef, 2006)*
+
+V:
+
+<img width="600" data-src="http://portfolio.andrescolubri.net/images/contemplacion2.jpg" style="background:none; border:none; box-shadow:none"/>
 
 V:
 
@@ -322,16 +333,17 @@ social data (2009 - present)
 
 V:
 
-<img width="800" data-src="http://portfolio.andrescolubri.net/images/airport-outbreak.jpg" style="background:none; border:none; box-shadow:none"/>
-
-V:
-
-<img width="600" data-src="http://portfolio.andrescolubri.net/images/FLUflux1.jpg" style="background:none; border:none; box-shadow:none"/><br>
+<img width="600" data-src="http://portfolio.andrescolubri.net/images/airport-outbreak.jpg" style="background:none; border:none; box-shadow:none"/><br>
 *FLUflux (with <a href="http://cargocollective.com/jihyunkim" target="_blank">Jihyun Kim</a>, 2009)*
 
 V:
 
-<img width="600" data-src="http://portfolio.andrescolubri.net/images/FLUflux3.jpg" style="background:none; border:none; box-shadow:none"/>
+<img width="600" data-src="http://portfolio.andrescolubri.net/images/FLUflux1.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img width="600" data-src="http://portfolio.andrescolubri.net/images/FLUflux3.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*<a href="https://codeanticode.wordpress.com/?s=fluflux" target="_blank">more info</a>*
 
 V:
 
@@ -374,7 +386,50 @@ More information:
 
 <a href="http://gavaligai.com/filter/select/The-Garden-Library/" target="_blank">Romy's project page</a>
 
-<a href="https://elmcip.net/node/4675" target="_blank">Project at Remediating the<br>Social conference</a>
+H:
 
-<a href="https://fathom.info/notebook/3260/" target="_blank">Blogpost at fathom.info</a>
+biomedical data (2013 - present)
 
+V:
+
+<img width="800" data-src="http://portfolio.andrescolubri.net/images/correlation.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img width="600" data-src="http://portfolio.andrescolubri.net/images/scatter-matrix.jpg" style="background:none; border:none; box-shadow:none"/>
+
+V:
+
+<img width="800" data-src="http://portfolio.andrescolubri.net/images/mirador.png" style="background:none; border:none; box-shadow:none"/><br>
+*Mirador (w/<a href="https://fathom.info/" target="_blank">Fathom Information Design</a>)*
+
+V:
+
+<iframe data-src="https://player.vimeo.com/video/110323353" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+V:
+
+<img width="800" data-src="http://portfolio.andrescolubri.net/images/mirador-datacomp.png" style="background:none; border:none; box-shadow:none"/><br>
+*<a href="https://fathom.info/mirador/competition.html" target="_blank">Mirador Data Competition</a>*
+
+V:
+
+<img width="800" data-src="http://portfolio.andrescolubri.net/images/mirador-workshop.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*find more @ <a href="https://fathom.info/mirador/" target="_blank">fathom.info/mirador</a>*
+
+V:
+
+<img height="500" data-src="http://portfolio.andrescolubri.net/images/search-path.jpg" style="background:none; border:none; box-shadow:none"/><br>
+*Metric Spaces (2015)</a>*
+
+V:
+
+<iframe data-src="https://player.vimeo.com/video/143709780" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+V:
+
+<img width="1000" data-src="http://portfolio.andrescolubri.net/images/search-patterns.png" style="background:none; border:none; box-shadow:none"/><br>
+
+V:
+
+[back to homepage](http://andrescolubri.net/art/)
