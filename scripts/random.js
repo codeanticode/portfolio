@@ -28,10 +28,10 @@ var viz_function = function(p) {
 //     p.noLoop();
     p.fill(0,255,0);
     p.background(255);
-    p.textAlign(p.CENTER);
+    p.textAlign(p.CENTER, p.CENTER);
     x = px = 0.5 * p.width;
     y = py = 0.5 * p.height;
-    p.textSize(18);
+    p.textSize(15);
   }
 
   p.draw = function() {    
@@ -43,14 +43,25 @@ var viz_function = function(p) {
     else if (p.height - 50 < py) y = py + p.random(-10, 0);    
     else y = py + p.random(-10, 10);
     
-    if (p.random(1) < prob && 0 < words.length && lastCount + 30 < p.frameCount) {
-      var w = words.splice(0, 1);
-
+    if (60 < p.frameCount) {
       p.noStroke();
-      p.fill(100);
-      p.text(w, x, y);
-      lastCount = p.frameCount;
+      p.fill(255);
+      p.rect(0, p.height - 50, p.width, 50);
+      
+      p.fill(180, p.map(p.frameCount, 60, 90, 0, 255));
+
+      p.text("Please use the arrow keys or the buttons to the right to navigate this slideshow.\nPress ESC for an overview", 0, p.height - 50, p.width, 50);
     }
+
+    
+//     if (p.random(1) < prob && 0 < words.length && lastCount + 30 < p.frameCount) {
+//       var w = words.splice(0, 1);
+// 
+//       p.noStroke();
+//       p.fill(100);
+//       p.text(w, x, y);
+//       lastCount = p.frameCount;
+//     }
 
     p.stroke(200);
     p.line(px, py, x, y);
