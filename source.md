@@ -177,7 +177,8 @@ V:
 V:
 
 <img data-src="http://portfolio.andrescolubri.net/images/landscape1p2.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*<a href="http://glgraphics.sourceforge.net/" target="_blank">glgraphics</a>, <a href="http://gsvideo.sourceforge.net/" target="_blank">gsvideo</a> (2008-2011)*
+*<a href="http://glgraphics.sourceforge.net/" target="_blank">glgraphics</a>, <a href="http://gsvideo.sourceforge.net/" target="_blank">gsvideo</a> (2008-2011)<br>
+<a href="http://portfolio.andrescolubri.net/articles/ace08_hd_in_processing-ace_colubri.pdf" target="_blank">article</a> @ ace 08*
 
 
 V:
