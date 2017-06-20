@@ -97,7 +97,7 @@ V:
 
 V:
 
-<img height="600" data-src="http://portfolio.andrescolubri.net/images/ribbon-code-pascal.png" style="background:none; border:none; box-shadow:none"/><br>
+<img height="500" data-src="http://portfolio.andrescolubri.net/images/ribbon-code-pascal.png" style="background:none; border:none; box-shadow:none"/><br>
 *ribbon rendering code (pascal)*
 
 V:
