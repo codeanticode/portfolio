@@ -184,7 +184,7 @@ V:
 V:
 
 <img height="550" data-src="http://portfolio.andrescolubri.net/images/processing-projects.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*<a href="http://portfolio.andrescolubri.net/articles/siggraph2012_processing 2_colubri_fry.pdf" target="_blank">processing 2.0 (2012)</a>*
+*<a href="http://portfolio.andrescolubri.net/articles/siggraph2012_processing2_colubri_fry.pdf" target="_blank">processing 2.0 (2012)</a>*
 
 V:
 
@@ -315,7 +315,7 @@ V:
 V:
 
 <img width="600" data-src="http://portfolio.andrescolubri.net/images/itch2.jpg" style="background:none; border:none; box-shadow:none"/><br>
-*<a href="http://www.siggraph.org/asia2010/content/attendees/Courses/16.html" target="_blank">siggraph asia 2010</a>*
+*<a href="http://portfolio.andrescolubri.net/articles/siggraph2010-processing_android-kim-colubri.pdf" target="_blank">siggraph asia 2010</a>*
 
 V:
 
